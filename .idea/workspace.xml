@@ -2,9 +2,120 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c2e2268-5de5-4303-9396-1ebf359fd9ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotels-grid-sidebar-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/hotels-grid-sidebar-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/_all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/aero.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/aero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/aero@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/blue@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/flat.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/flat.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/flat@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/green@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/grey.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/grey@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/orange.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/orange@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/pink.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/pink@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/purple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/purple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/purple@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/red.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/red@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/yellow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/flat/yellow@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/futurico/futurico.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/futurico/futurico.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/futurico/futurico@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/line/_all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/line/aero.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/line/blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/line/green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/line/grey.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/line/line.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/line/line.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/line/line@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/line/orange.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/line/pink.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/line/purple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/line/red.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/line/yellow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/_all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/aero.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/aero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/aero@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/blue@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/green@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/grey.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/grey@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/minimal.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/minimal.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/minimal@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/orange.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/orange@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/pink.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/pink@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/purple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/purple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/purple@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/red.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/red@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/yellow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/minimal/yellow@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/polaris/polaris.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/polaris/polaris.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/polaris/polaris@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/_all.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/aero.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/aero.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/aero@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/blue.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/blue@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/green.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/green@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/grey.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/grey.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/grey@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/orange.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/orange.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/orange@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/pink.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/pink.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/pink@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/purple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/purple.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/purple@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/red.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/red.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/red@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/square.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/square.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/square@2x.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/yellow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/yellow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/yellow.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/skins/square/yellow@2x.png" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -100,8 +211,8 @@
       <find>hotel-detail.html</find>
       <find>hidePassword</find>
       <find>Show</find>
-      <find>isotope-item</find>
       <find>show</find>
+      <find>isotope-item</find>
     </findStrings>
     <replaceStrings>
       <replace>daterangepicker.rtl</replace>
@@ -123,7 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="13" />
     <option name="y" value="78" />
     <option name="width" value="1382" />
@@ -178,15 +289,15 @@
       <workItem from="1546020796916" duration="5765000" />
       <workItem from="1546084200808" duration="8015000" />
       <workItem from="1546268604293" duration="3029000" />
-      <workItem from="1546449725105" duration="4552000" />
+      <workItem from="1546449725105" duration="4819000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21361000" />
+    <option name="totallyTimeSpent" value="21628000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
@@ -287,6 +398,9 @@
           </folding>
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/blog.css">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
