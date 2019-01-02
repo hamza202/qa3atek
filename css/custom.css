@@ -379,6 +379,9 @@ a.box_news figure figcaption{
     margin-left: 10px;
     margin-right: 0;
 }
+.animated .block-vertical{
+    background: #9260a9;
+}
 @media only screen and (min-width: 992px) {
     .main-menu {
         float: left;
