@@ -1,7 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0c2e2268-5de5-4303-9396-1ebf359fd9ef" name="Default Changelist" comment="" />
+    <list default="true" id="0c2e2268-5de5-4303-9396-1ebf359fd9ef" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/color-aqua.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/color-beige.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/color-blue.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/color-gray.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/color-green-2.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/color-green.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/color-navy.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/color-orange.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/color-peach.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/color-purple.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/color-red.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/color-violet.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,17 +29,20 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="502">
-              <caret line="680" column="23" lean-forward="true" selection-start-line="680" selection-start-column="23" selection-end-line="680" selection-end-column="23" />
+            <state relative-caret-position="325">
+              <caret line="722" column="22" selection-start-line="722" selection-start-column="22" selection-end-line="722" selection-end-column="22" />
+              <folding>
+                <element signature="n#script#4;n#body#0;n#html#0;n#!!top" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/input_qty.js">
+        <entry file="file://$PROJECT_DIR$/js/main.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="228">
+              <caret line="136" column="34" selection-start-line="136" selection-start-column="34" selection-end-line="136" selection-end-column="34" />
             </state>
           </provider>
         </entry>
@@ -31,10 +50,22 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/common_scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="53" column="712" selection-start-line="53" selection-start-column="707" selection-end-line="53" selection-end-column="712" />
+            <state relative-caret-position="194">
+              <caret line="200" column="3" selection-start-line="200" selection-start-column="3" selection-end-line="200" selection-end-column="29" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hotels-grid-sidebar-2.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="194">
+              <caret line="212" column="53" lean-forward="true" selection-start-line="212" selection-start-column="53" selection-end-line="212" selection-end-column="53" />
+              <folding>
+                <element signature="e#4259#4264#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -43,8 +74,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="481">
-              <caret line="299" column="16" selection-start-line="299" selection-start-column="16" selection-end-line="299" selection-end-column="16" />
+            <state relative-caret-position="482">
+              <caret line="379" column="19" selection-start-line="379" selection-start-column="19" selection-end-line="379" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -74,6 +105,15 @@
       <find>View all (157)</find>
       <find>.custom-search-input-2 input[type='submit']</find>
       <find>BOOK UNIQUE EXPERIENCESكتاب تجربة فريدة من نوعها</find>
+      <find>logo</find>
+      <find>layout_view</find>
+      <find>District</find>
+      <find>كتاب</find>
+      <find>hotel-detail.html</find>
+      <find>isotope-item</find>
+      <find>hidePassword</find>
+      <find>Show</find>
+      <find>show</find>
     </findStrings>
     <replaceStrings>
       <replace>daterangepicker.rtl</replace>
@@ -81,19 +121,23 @@
       <replace>مشاهدة الكل (150)</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/vendors.css" />
-        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/hotels-grid-sidebar-2.html" />
+        <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/css/custom.css" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="9" />
-    <option name="y" value="51" />
+    <option name="x" value="13" />
+    <option name="y" value="78" />
     <option name="width" value="1382" />
     <option name="height" value="744" />
   </component>
@@ -107,8 +151,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="html" type="b2602c69:ProjectViewProjectNode" />
-              <item name="html" type="462c0819:PsiDirectoryNode" />
+              <item name="qa3atek" type="b2602c69:ProjectViewProjectNode" />
+              <item name="qa3atek" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -145,17 +189,19 @@
       <updated>1546020795772</updated>
       <workItem from="1546020796916" duration="5765000" />
       <workItem from="1546084200808" duration="8015000" />
+      <workItem from="1546268604293" duration="3029000" />
+      <workItem from="1546449725105" duration="4195000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13780000" />
+    <option name="totallyTimeSpent" value="21004000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25340393" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26096824" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -212,15 +258,35 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/input_qty.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        <state relative-caret-position="17">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hotels-grid-sidebar-2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="212" column="53" lean-forward="true" selection-start-line="212" selection-start-column="53" selection-end-line="212" selection-end-column="53" />
+          <folding>
+            <element signature="e#4259#4264#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="722" column="22" selection-start-line="722" selection-start-column="22" selection-end-line="722" selection-end-column="22" />
+          <folding>
+            <element signature="n#script#4;n#body#0;n#html#0;n#!!top" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/js/common_scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="53" column="712" selection-start-line="53" selection-start-column="707" selection-end-line="53" selection-end-column="712" />
+        <state relative-caret-position="194">
+          <caret line="200" column="3" selection-start-line="200" selection-start-column="3" selection-end-line="200" selection-end-column="29" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
@@ -229,22 +295,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/js/main.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="566">
-          <caret line="339" lean-forward="true" selection-start-line="339" selection-end-line="339" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="502">
-          <caret line="680" column="23" lean-forward="true" selection-start-line="680" selection-start-column="23" selection-end-line="680" selection-end-column="23" />
+        <state relative-caret-position="228">
+          <caret line="136" column="34" selection-start-line="136" selection-start-column="34" selection-end-line="136" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="481">
-          <caret line="299" column="16" selection-start-line="299" selection-start-column="16" selection-end-line="299" selection-end-column="16" />
+        <state relative-caret-position="482">
+          <caret line="379" column="19" selection-start-line="379" selection-start-column="19" selection-end-line="379" selection-end-column="19" />
         </state>
       </provider>
     </entry>

@@ -148,7 +148,7 @@ html.mm-opening .mm-menu.mm-opened ~ .mm-slideout {
     color: #fff;
 }
 
-a {
+a , .switch-field label:hover, a.btn_map:hover{
     color: #ac4056;
 }
 
@@ -159,7 +159,55 @@ a {
 .owl-theme .owl-dots .owl-dot.active span, .owl-theme .owl-dots .owl-dot:hover span, .score strong {
     background: #9361aa !important;
 }
+a.boxed_list:hover i{
+    color: #9361aa;
+}
+a.btn_map:before{
+    margin-right: 0;
+    margin-left: 5px;
+}
+.nice-select{
+    padding-right: 15px;
+    padding-left: 27px;
+    text-align: right !important;
+}
+.nice-select:after{
+    left: 20px;
+    right: auto;
+}
+.nice-select .list{
+    min-height: 25vh;
+}
+.filter_type small{
+    float: right;
+}
+.switchery{
+    float: left;
+}
+a#filters_col_bt:before{
+    left: 0;
+    right: auto;
+}
+a.btn_map, .switch-field label{
+    font-size: 0.8rem;
+}
+.filters_listing ul li:first-child{
+    float: right;
+    margin-right: 0;
+    margin-left: 10px;
+}
+.filters_listing ul li:nth-child(2){
+    float: left;
+}
 
+.switch-field label{
+    float: right;
+    border-right: 0;
+    border-left: 1px solid rgba(0, 0, 0, 0.08) !important;
+}
+.switch-field label:last-child{
+    border-left: 0 !important;
+}
 footer ul.links li a:after {
     top: 0;
     margin-right: 5px;
@@ -299,6 +347,38 @@ a.box_news figure figcaption{
     left: 0;
     right: auto;
 }
+.small-dialog-header{
+    right: -30px;
+    left: auto;
+    text-align: right;
+}
+#sign-in-dialog .mfp-close, #lang-dialog .mfp-close{
+    left: 20px;
+    right: auto;
+}
+#sign-in-dialog .form-group input.form-control{
+    padding-left: 10px;
+    padding-right: 40px !important;
+}
+#sign-in-dialog .form-group i{
+    right: 12px;
+    left: auto;
+}
+.my-toggle{
+    left: 0 !important;
+    right: auto !important;
+    margin-left: 5px !important;
+}
+.container_check{
+    padding-left: 0;
+    padding-right: 35px;
+}
+.container_check .checkmark{
+    right: 0;
+    left: auto;
+    margin-left: 10px;
+    margin-right: 0;
+}
 @media only screen and (min-width: 992px) {
     .main-menu {
         float: left;
@@ -323,5 +403,13 @@ a.box_news figure figcaption{
         float: none;
     }
 }
-
+@media (min-width: 550px) {
+    html.mm-opening .mm-menu.mm-opened ~ .mm-slideout {
+        -webkit-transform: translate(-440px, 0);
+        -ms-transform: translate(-440px, 0);
+        transform: translate(-440px, 0);
+        -webkit-transform: translate3d(-440px, 0, 0);
+        transform: translate3d(-440px, 0, 0);
+    }
+}
 /*RTL end*/
