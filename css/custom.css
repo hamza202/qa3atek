@@ -382,6 +382,55 @@ a.box_news figure figcaption{
 .animated .block-vertical{
     background: #9260a9;
 }
+.hero_in a.btn_photos{
+    right: 20px;
+    left: auto;
+}
+.mfp-arrow{
+    left: 0;
+}
+.secondary_nav ul li{
+    margin-left: 20px;
+    margin-right: 0;
+}
+ul.bullets li{
+    padding-right: 20px;
+    padding-left: 0;
+}
+ul.bullets li:before{
+    right: 0;
+    left: auto;
+}
+ul.hotel_facilities li img{
+    margin-left: 10px;
+    margin-right: 0;
+}
+#review_summary{
+    border-radius: 5px 5px 0 5px;
+}
+.reviews-container .rev-thumb{
+    right: 0;
+    left: auto;
+}
+.reviews-container .review-box{
+    padding-right: 100px;
+    padding-left: 0;
+}
+.nice-select .option{
+    text-align: right;
+}
+.box_detail .price .score{
+    float: left;
+}
+.score span{
+    text-align: left;
+}
+.booking .form-group i{
+    left: 1px;
+    right: auto;
+    padding-left: 10px;
+    padding-right: 0;
+}
 @media only screen and (min-width: 992px) {
     .main-menu {
         float: left;
@@ -406,6 +455,12 @@ a.box_news figure figcaption{
         float: none;
     }
 }
+@media only screen and (max-width: 767px) {
+    .reviews-container .review-box{
+        padding-right: 0;
+    }
+}
+
 @media (min-width: 550px) {
     html.mm-opening .mm-menu.mm-opened ~ .mm-slideout {
         -webkit-transform: translate(-440px, 0);
