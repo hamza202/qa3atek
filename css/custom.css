@@ -447,6 +447,12 @@ a.btn_1.full-width.purchase:hover, .btn_1.full-width.purchase:hover{
 .contact_info ul li h4{
     color: #9260a9;
 }
+.rating i{
+    margin-left: 2px;
+    margin-right: 0;
+    display: inline-block;
+}
+
 a.btn_1.outline:hover, .btn_1.outline:hover{
     background-color: #9260a9;
     border-color:#9260a9 ;
