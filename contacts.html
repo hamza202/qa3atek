@@ -24,6 +24,15 @@
 	<link href="css/vendors.css" rel="stylesheet">
 	<!-- YOUR CUSTOM CSS -->
 	<link href="css/custom.css" rel="stylesheet">
+	<style>
+		.hero_in.contacts:before {
+			background: url(img/hero_in_bg_3.jpg) center center no-repeat;
+			-webkit-background-size: cover;
+			-moz-background-size: cover;
+			-o-background-size: cover;
+			background-size: cover;
+		}
+	</style>
 </head>
 
 <body>
@@ -179,15 +188,15 @@
 			<div class="container margin_80_55">
 				<div class="row justify-content-between">
 					<div class="col-lg-5">
-						<div class="map_contact">
-						</div>
+						<iframe  src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d57981.439558492595!2d46.776481449016124!3d24.732373633138348!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1sar!2s!4v1546709520315" width="100%" height="500" frameborder="0" style="border:0; height: 500px" allowfullscreen></iframe>
+
 						<!-- /map -->
 					</div>
 					<div class="col-lg-6">
 						<h4>Send a message</h4>
 						<p>Ex quem dicta delicata usu, zril vocibus maiestatis in qui.</p>
 						<div id="message-contact"></div>
-						<form method="post" action="assets/contact.php" id="contactform" autocomplete="off">
+						<form method="post" action="#"  autocomplete="off">
 							<div class="row">
 								<div class="col-md-6">
 									<div class="form-group">
@@ -225,7 +234,7 @@
 							<div class="row">
 								<div class="col-md-6">
 									<div class="form-group">
-										<label>Are you human? 3 + 1 =</label>
+										<label>5+3 = ?</label>
 										<input class="form-control" type="text" id="verify_contact" name="verify_contact">
 									</div>
 								</div>
@@ -381,12 +390,7 @@
     <script src="js/jquery-2.2.4.min.js"></script>
     <script src="js/common_scripts.js"></script>
     <script src="js/main.js"></script>
-	<script src="assets/validate.js"></script>
-	
-	<!-- SPECIFIC SCRIPTS -->
-	<script src="http://maps.googleapis.com/maps/api/js"></script>
-	<script src="js/mapmarker.jquery.js"></script>
-	<script src="js/mapmarker_func.jquery.js"></script>
+
 	
 	
 	
