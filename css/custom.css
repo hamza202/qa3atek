@@ -407,6 +407,10 @@ ul.hotel_facilities li img{
 }
 #review_summary{
     border-radius: 5px 5px 0 5px;
+    background-color: #ac4056;
+}
+.reviews-container .progress-bar{
+    background-color: #ac4056;
 }
 .reviews-container .rev-thumb{
     right: 0;
@@ -430,6 +434,19 @@ ul.hotel_facilities li img{
     right: auto;
     padding-left: 10px;
     padding-right: 0;
+}
+.hero_in .wrapper h1 span {
+    background-color: #9260a9;
+}
+.hero_in a.btn_photos:hover{
+    color: #ac4056;
+}
+a.btn_1.full-width.purchase:hover, .btn_1.full-width.purchase:hover{
+    background-color: #9260a9;
+}
+a.btn_1.outline:hover, .btn_1.outline:hover{
+    background-color: #9260a9;
+    border-color:#9260a9 ;
 }
 @media only screen and (min-width: 992px) {
     .main-menu {
