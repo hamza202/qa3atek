@@ -352,15 +352,15 @@ a.box_news figure figcaption{
     left: auto;
     text-align: right;
 }
-#sign-in-dialog .mfp-close, #lang-dialog .mfp-close{
+#sign-up-dialog .mfp-close, #lang-dialog .mfp-close{
     left: 20px;
     right: auto;
 }
-#sign-in-dialog .form-group input.form-control{
+#sign-up-dialog .form-group input.form-control{
     padding-left: 10px;
     padding-right: 40px !important;
 }
-#sign-in-dialog .form-group i{
+#sign-up-dialog .form-group i{
     right: 12px;
     left: auto;
 }
@@ -457,6 +457,12 @@ a.btn_1.outline:hover, .btn_1.outline:hover{
     background-color: #9260a9;
     border-color:#9260a9 ;
 }
+.mm-menu, .mm-panels, .mm-panels>.mm-panel{
+    z-index: 9999 !important;
+}
+#sign-up-dialog .form-group, #sign-in-dialog .form-group{
+    text-align: right;
+}
 @media only screen and (min-width: 992px) {
     .main-menu {
         float: left;
@@ -476,6 +482,101 @@ a.btn_1.outline:hover, .btn_1.outline:hover{
     }
 }
 
+#sign-up-dialog {
+    background: #fff;
+    padding: 30px;
+    padding-top: 0;
+    text-align: left;
+    max-width: 400px;
+    margin: 40px auto;
+    position: relative;
+    box-sizing: border-box;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    border-radius: 4px;
+}
+
+/* Popup close button*/
+#sign-up-dialog .mfp-close,
+#lang-dialog .mfp-close {
+    color: #666;
+    background-color: #e4e4e4;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+    top: 12px;
+    width: 32px;
+    height: 32px;
+    line-height: 32px;
+}
+#sign-in-dialog .mfp-close{
+    left: 20px;
+    right: auto;
+}
+#sign-up-dialog .mfp-close:hover,
+#lang-dialog .mfp-close:hover {
+    color: #fff;
+    background-color: #66676b;
+}
+
+#sign-up-dialog .mfp-close:before {
+    font-size: 24px;
+    font-family: 'ElegantIcons';
+    content: "\4d";
+}
+
+.small-dialog-header {
+    font-size: 18px;
+    width: calc(100% + 60px);
+    position: relative;
+    left: -30px;
+    top: 0;
+    -webkit-border-radius: 4px 4px;
+    -moz-border-radius: 4px 4px;
+    -ms-border-radius: 4px 4px;
+    border-radius: 4px 4px;
+    display: inline-block;
+    background-color: #f6f6f6;
+    padding: 18px 20px 15px 20px;
+    margin-bottom: 30px;
+}
+.small-dialog-header h3 {
+    padding: 0;
+    margin: 0;
+    font-size: 18px;
+    font-size: 1.125rem;
+    font-weight: 500;
+}
+
+#sign-up-dialog .form-group {
+    position: relative;
+}
+
+#sign-up-dialog .form-group input.form-control {
+    padding-left: 40px;
+}
+
+#sign-up-dialog .form-group i {
+    font-size: 21px;
+    font-size: 1.3125rem;
+    position: absolute;
+    left: 12px;
+    top: 34px;
+    color: #ccc;
+    width: 25px;
+    height: 25px;
+    display: block;
+    font-weight: 400 !important;
+}
+
+#sign-up-dialog .form-group i.icon_lock_alt {
+    top: 36px;
+}
+.sign-up i{
+    font-size: 33px;
+}
 @media only screen and (max-width: 992px) {
     ul#additional_links {
         float: none;

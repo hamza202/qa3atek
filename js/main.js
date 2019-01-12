@@ -118,7 +118,7 @@
 	});
 	
 	// Modal Sign In
-	$('#sign-in').magnificPopup({
+	$('.sign-in').magnificPopup({
 		type: 'inline',
 		fixedContentPos: true,
 		fixedBgPos: true,
