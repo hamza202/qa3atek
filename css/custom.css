@@ -577,6 +577,10 @@ a.btn_1.outline:hover, .btn_1.outline:hover{
 .sign-up i{
     font-size: 33px;
 }
+#login aside, #register aside{
+    right: 0;
+    left: auto;
+}
 @media only screen and (max-width: 992px) {
     ul#additional_links {
         float: none;
