@@ -595,7 +595,7 @@ ul#top_menu li a {
 }
 ul#top_menu li a#navbarDropdown{
     width: auto;
-    font-style: 18px;
+    font-size: 18px;
 }
 .header.sticky i.pe-7s-add-user{
     color: #444;
