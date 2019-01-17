@@ -581,6 +581,27 @@ a.btn_1.outline:hover, .btn_1.outline:hover{
     right: 0;
     left: auto;
 }
+ul#top_menu li a {
+    display: block;
+    width: 22px;
+    height: 23px;
+    position: relative;
+    top: 2px;
+    -moz-transition: opacity 0.5s ease;
+    -o-transition: opacity 0.5s ease;
+    -webkit-transition: opacity 0.5s ease;
+    -ms-transition: opacity 0.5s ease;
+    transition: opacity 0.5s ease;
+}
+.header.sticky i.pe-7s-add-user{
+    color: #444;
+}
+@media (max-width: 991px){
+    ul#top_menu li a.sign-up{
+        top: -4px;
+    }
+}
+
 @media only screen and (max-width: 992px) {
     ul#additional_links {
         float: none;
