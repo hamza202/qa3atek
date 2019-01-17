@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c2e2268-5de5-4303-9396-1ebf359fd9ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,7 +15,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10064">
+            <state relative-caret-position="7699">
               <caret line="592" column="63" selection-start-line="592" selection-start-column="63" selection-end-line="592" selection-end-column="63" />
               <folding>
                 <element signature="n#script#4;n#body#0;n#html#0;n#!!top" />
@@ -70,8 +68,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/custom.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="339">
-              <caret line="599" column="8" selection-start-line="599" selection-start-column="8" selection-end-line="599" selection-end-column="8" />
+            <state relative-caret-position="458">
+              <caret line="615" column="26" selection-start-line="615" selection-start-column="26" selection-end-line="615" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -88,7 +86,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/contacts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3230">
+            <state relative-caret-position="529">
               <caret line="190" column="31" selection-start-line="190" selection-start-column="25" selection-end-line="190" selection-end-column="31" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -158,7 +156,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -221,12 +219,12 @@
       <workItem from="1547470858249" duration="599000" />
       <workItem from="1547635529446" duration="1971000" />
       <workItem from="1547728156786" duration="1905000" />
-      <workItem from="1547739555529" duration="829000" />
+      <workItem from="1547739555529" duration="1214000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="37009000" />
+    <option name="totallyTimeSpent" value="37394000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -300,16 +298,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10064">
-          <caret line="592" column="63" selection-start-line="592" selection-start-column="63" selection-end-line="592" selection-end-column="63" />
-          <folding>
-            <element signature="n#script#4;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1309">
@@ -328,16 +316,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2261">
           <caret line="133" selection-start-line="133" selection-end-line="138" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/contacts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3230">
-          <caret line="190" column="31" selection-start-line="190" selection-start-column="25" selection-end-line="190" selection-end-column="31" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -360,10 +338,30 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7699">
+          <caret line="592" column="63" selection-start-line="592" selection-start-column="63" selection-end-line="592" selection-end-column="63" />
+          <folding>
+            <element signature="n#script#4;n#body#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contacts.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="529">
+          <caret line="190" column="31" selection-start-line="190" selection-start-column="25" selection-end-line="190" selection-end-column="31" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#1;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/css/custom.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="339">
-          <caret line="599" column="8" selection-start-line="599" selection-start-column="8" selection-end-line="599" selection-end-column="8" />
+        <state relative-caret-position="458">
+          <caret line="615" column="26" selection-start-line="615" selection-start-column="26" selection-end-line="615" selection-end-column="26" />
         </state>
       </provider>
     </entry>
