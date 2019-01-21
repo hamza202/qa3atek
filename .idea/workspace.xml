@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0c2e2268-5de5-4303-9396-1ebf359fd9ef" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hotels-grid-sidebar-2.html" beforeDir="false" afterPath="$PROJECT_DIR$/hotels-grid-sidebar-2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,14 +12,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10064">
-              <caret line="592" column="63" selection-start-line="592" selection-start-column="63" selection-end-line="592" selection-end-column="63" />
-              <folding>
-                <element signature="n#script#4;n#body#0;n#html#0;n#!!top" />
-              </folding>
+            <state relative-caret-position="382">
+              <caret line="760" lean-forward="true" selection-start-line="760" selection-end-line="760" />
             </state>
           </provider>
         </entry>
@@ -50,10 +45,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/news-details.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="314">
+            <state relative-caret-position="1428">
               <caret line="228" column="57" selection-start-line="228" selection-start-column="57" selection-end-line="228" selection-end-column="57" />
               <folding>
                 <element signature="n#head#0;n#html#0;n#!!top" />
@@ -117,7 +112,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>District</find>
       <find>كتاب</find>
       <find>hotel-detail.html</find>
       <find>hidePassword</find>
@@ -147,6 +141,7 @@
       <find>fc5b62</find>
       <find>.filter_type h6</find>
       <find>Star Category</find>
+      <find>dates</find>
     </findStrings>
     <replaceStrings>
       <replace>daterangepicker.rtl</replace>
@@ -163,7 +158,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/css/vendors.css" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/contacts.html" />
         <option value="$PROJECT_DIR$/js/main.js" />
         <option value="$PROJECT_DIR$/login.html" />
@@ -174,10 +168,11 @@
         <option value="$PROJECT_DIR$/hotels-grid-sidebar-2.html" />
         <option value="$PROJECT_DIR$/css/custom.css" />
         <option value="$PROJECT_DIR$/news-details.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-221" />
     <option name="y" value="290" />
     <option name="width" value="1382" />
@@ -243,7 +238,7 @@
       <workItem from="1547739555529" duration="2931000" />
       <workItem from="1547855835681" duration="12000" />
       <workItem from="1547855864153" duration="1232000" />
-      <workItem from="1548085560050" duration="3670000" />
+      <workItem from="1548085560050" duration="5378000" />
     </task>
     <task id="LOCAL-00001" summary="55">
       <created>1547741019152</created>
@@ -263,7 +258,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="44025000" />
+    <option name="totallyTimeSpent" value="45733000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -351,16 +346,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="10064">
-          <caret line="592" column="63" selection-start-line="592" selection-start-column="63" selection-end-line="592" selection-end-column="63" />
-          <folding>
-            <element signature="n#script#4;n#body#0;n#html#0;n#!!top" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/login.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1309">
@@ -421,7 +406,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/news-details.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="314">
+        <state relative-caret-position="1428">
           <caret line="228" column="57" selection-start-line="228" selection-start-column="57" selection-end-line="228" selection-end-column="57" />
           <folding>
             <element signature="n#head#0;n#html#0;n#!!top" />
@@ -429,6 +414,13 @@
             <element signature="n#div#0;n#div#0;n#div#0;n#main#0;n#div#0;n#body#0;n#html#0;n#!!top" />
             <element signature="n#footer#0;n#div#0;n#body#0;n#html#0;n#!!top" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="382">
+          <caret line="760" lean-forward="true" selection-start-line="760" selection-end-line="760" />
         </state>
       </provider>
     </entry>
