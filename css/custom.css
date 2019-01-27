@@ -1130,7 +1130,10 @@ article.blog .post_info ul li:last-child {
     -webkit-box-shadow: inset 0 0 6px rgba(0, 0, 0, .3);
     background-color: #ac4056;
 }
-
+#login aside .copy, #register aside .copy{
+    position: relative;
+    margin-bottom: -40px;
+}
 @media (max-width: 991px) {
     ul#top_menu li a.sign-up {
         top: -4px;
