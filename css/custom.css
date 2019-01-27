@@ -1134,6 +1134,9 @@ article.blog .post_info ul li:last-child {
     position: relative;
     margin-bottom: -40px;
 }
+.container_check input:checked ~ .checkmark{
+    background-color: #9e3b4f;
+}
 @media (max-width: 991px) {
     ul#top_menu li a.sign-up {
         top: -4px;
